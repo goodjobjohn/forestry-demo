@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- title-et-las-vis.html
 - index.md
